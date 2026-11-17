@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript== 
 // @name         Zeta 아이메세지 비비드 (입력창 수정판)
 // @namespace    zeta-local
 // @version      1.2.0
